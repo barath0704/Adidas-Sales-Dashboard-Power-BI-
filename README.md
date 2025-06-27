@@ -116,5 +116,6 @@ This project demonstrates:
 
 ## 🙋‍♀️ Contact / Portfolio
 
-> *(Add your LinkedIn or portfolio URL here if you're showcasing this publicly)*
+- www.linkedin.com/in/barathbala-b-1742b8257
+- barathworkspace@gmail.com
 
