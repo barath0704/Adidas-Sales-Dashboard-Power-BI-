@@ -114,7 +114,7 @@ This project demonstrates:
 
 ---
 
-## 🙋‍♀️ Contact / Portfolio
+## 🙋‍♀️ Contact
 
 - www.linkedin.com/in/barathbala-b-1742b8257
 - barathworkspace@gmail.com
